@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kinglo200509
 - 👀 I’m interested in learing new things
-- 🌱 I’m currently Learning Web-Dev , C++ , 
+- 🌱 I’m currently Learning Web3
 - 💞️ I’m looking forward to learn together
 - 📫 Contact me , lets colabrate :))
 
